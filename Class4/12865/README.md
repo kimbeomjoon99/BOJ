@@ -3,3 +3,5 @@
 JAVA
 
 https://www.acmicpc.net/problem/12865
+
+non-fractional knapsack problem(DP)
