@@ -4,4 +4,4 @@ JAVA
 
 https://www.acmicpc.net/problem/12865
 
-non-fractional knapsack problem(DP)
+0-1 knapsack problem(DP)
